@@ -18,3 +18,6 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 docker-compose.yml (Containeres do PAServer e MongoDB)
 https://gist.github.com/hunsche/40d3d3beda0bf3eb78b16bfe451394fc
+
+Vídeo (Apresentação do CodeRage no YouTube)
+https://www.youtube.com/watch?v=AGEjK_b39Ng

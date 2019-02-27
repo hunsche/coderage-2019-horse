@@ -1,0 +1,15 @@
+{
+	"name": "sources",
+	"description": "",
+	"version": "1.0.0",
+	"private": false,
+	"homepage": "",
+	"mainsrc": "src/",
+	"supported": "xe+",
+	"dprojFile": "",
+	"dependencies": {
+		"github.com/HashLoad/horse": "^v1.6.3",
+		"github.com/HashLoad/jhonson": "^1.0.2",
+		"github.com/HashLoad/ugar": "^v0.0.1"
+	}
+}

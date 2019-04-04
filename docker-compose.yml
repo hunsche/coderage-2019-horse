@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
   horse:
-    image: hashload/delphi-dev:20
+    image: hashload/delphi-dev:10.3.0-rio
     privileged: true
     tty: true
     ports:
